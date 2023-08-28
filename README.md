@@ -20,3 +20,8 @@ npm install tar@latest -g
 npx create-react-app react-amplified
 npm install -g @aws-amplify/cli
 ```
+
+## referencias
+
+- [https://commit-creator.netlify.app/](https://commit-creator.netlify.app/)
+- [https://commitlint.io/](https://commitlint.io/)
